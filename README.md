@@ -39,6 +39,7 @@ reshis_avia_app/
 │   └── app.js                                      # Клиентская логика, запросы к API и отрисовка графика
 ├── main.py                                         # FastAPI-сервер, работа с SQLite и расчётная модель
 ├── requirements.txt                                # Список зависимостей Python
+├── .python-version                                 # Фиксация версии Python для хостинга 
 └── README.md                                       # Документация проекта
 ```
 
